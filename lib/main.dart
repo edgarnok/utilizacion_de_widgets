@@ -120,6 +120,7 @@ void main() {
         Product(name: 'Huevos'),
         Product(name: 'Harina'),
         Product(name: 'Galletas'),
+        Product(name: 'Jitomates'),
         Product(name: 'Platanos'),
       ],
     ),
